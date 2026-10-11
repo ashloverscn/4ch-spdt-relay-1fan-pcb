@@ -82,7 +82,7 @@
 			(subtractmaskfromsilk no)
 			(outputformat 4)
 			(mirror no)
-			(drillshape 0)
+			(drillshape 2)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -13558,14 +13558,6 @@
 		(uuid "2d369422-43a6-4c55-b61a-a46a0961c7fc")
 	)
 	(segment
-		(start 170.31 71.16)
-		(end 171.105 71.955)
-		(width 1)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "2fe25318-f4ac-496f-aded-62b2d6c32bf8")
-	)
-	(segment
 		(start 117.79 77.56)
 		(end 117.79 75.52)
 		(width 1)
@@ -13614,14 +13606,6 @@
 		(uuid "465bb02b-3aba-4a95-8e09-838fe0924afb")
 	)
 	(segment
-		(start 171.32 67.77)
-		(end 170.31 68.78)
-		(width 1)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "48638d6a-aeba-4ebe-8aae-4efdbca28659")
-	)
-	(segment
 		(start 154.46 75.77)
 		(end 154.46 74.58)
 		(width 1)
@@ -13660,14 +13644,6 @@
 		(layer "B.Cu")
 		(net "GND")
 		(uuid "6c84b2d1-a122-4ec5-9dbd-34033cbc6af3")
-	)
-	(segment
-		(start 171.105 71.955)
-		(end 172.36 71.955)
-		(width 1)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "764365c7-e0fe-43c4-a168-211015e9a545")
 	)
 	(segment
 		(start 117.79 78.79)
@@ -13748,14 +13724,6 @@
 		(layer "B.Cu")
 		(net "GND")
 		(uuid "d7909a5d-41cf-4ac6-a054-5bef762adcf5")
-	)
-	(segment
-		(start 170.31 68.78)
-		(end 170.31 71.16)
-		(width 1)
-		(layer "B.Cu")
-		(net "GND")
-		(uuid "d954d08b-c68c-4de8-bf7a-4dd29848e208")
 	)
 	(segment
 		(start 134.23 77.56)
