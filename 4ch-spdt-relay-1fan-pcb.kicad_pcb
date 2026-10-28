@@ -51,7 +51,7 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_5555555d_5755557d)
+			(layerselection 0x00000000_00000000_55555555_5555557d)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -80,7 +80,7 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 4)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
@@ -12183,6 +12183,30 @@
 	)
 	(gr_poly
 		(pts
+			(xy 97.44 76.04) (xy 97.44 77.08) (xy 96.32 77.08) (xy 96.32 76.04)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "6df87b60-510a-410c-a714-157e0b68e077")
+	)
+	(gr_poly
+		(pts
+			(xy 97.44 86.12) (xy 97.44 87.16) (xy 96.32 87.16) (xy 96.32 86.12)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "200bc570-3073-42e3-a2fe-244b70cb2606")
+	)
+	(gr_poly
+		(pts
 			(xy 120.81 38.79) (xy 122.85 38.79) (xy 122.85 62.94) (xy 120.81 62.94)
 		)
 		(stroke
@@ -12204,6 +12228,30 @@
 		(fill yes)
 		(layer "B.Mask")
 		(uuid "21ea7aa9-691a-4878-892f-8eb79ec6a3df")
+	)
+	(gr_poly
+		(pts
+			(xy 146.22 78.28) (xy 146.22 79.32) (xy 145.1 79.32) (xy 145.1 78.28)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "fdb52736-b230-403d-878f-e0c6962519d4")
+	)
+	(gr_poly
+		(pts
+			(xy 146.27 83.38) (xy 146.27 84.42) (xy 145.15 84.42) (xy 145.15 83.38)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "fa5602a0-d0f3-4adf-833d-55ef6f98f13a")
 	)
 	(gr_poly
 		(pts
